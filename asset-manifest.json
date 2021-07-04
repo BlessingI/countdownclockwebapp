@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/countdownclockwebapp/static/css/main.b76ebe59.chunk.css",
+    "main.js": "/countdownclockwebapp/static/js/main.4ce35a9a.chunk.js",
+    "main.js.map": "/countdownclockwebapp/static/js/main.4ce35a9a.chunk.js.map",
+    "runtime-main.js": "/countdownclockwebapp/static/js/runtime-main.8b040934.js",
+    "runtime-main.js.map": "/countdownclockwebapp/static/js/runtime-main.8b040934.js.map",
+    "static/js/2.a38fbf31.chunk.js": "/countdownclockwebapp/static/js/2.a38fbf31.chunk.js",
+    "static/js/2.a38fbf31.chunk.js.map": "/countdownclockwebapp/static/js/2.a38fbf31.chunk.js.map",
+    "index.html": "/countdownclockwebapp/index.html",
+    "static/css/main.b76ebe59.chunk.css.map": "/countdownclockwebapp/static/css/main.b76ebe59.chunk.css.map",
+    "static/js/2.a38fbf31.chunk.js.LICENSE.txt": "/countdownclockwebapp/static/js/2.a38fbf31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b040934.js",
+    "static/js/2.a38fbf31.chunk.js",
+    "static/css/main.b76ebe59.chunk.css",
+    "static/js/main.4ce35a9a.chunk.js"
+  ]
+}
